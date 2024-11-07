@@ -1,13 +1,16 @@
-[![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)
+[![MasterHead](https://cdn.prod.website-files.com/6304f407692989e8cf58e801/633369cb5313cf4b78208c16__2.gif)]
 <h1 align="center">Hi 👋, I'm Winnie Awino Odoyo</h1>
 <h3 align="center">A passionate Data Analyst from Kenya</h3>
-<img align="right" alt="Data Analytics" width="400" src= "https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
+
+<img align="right" alt="Data Analytics" width="400"  height="300" src= "https://upmetrics.com/hs-fs/hubfs/Data%20analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winnie154&label=Profile%20views&color=0e75b6&style=flat" alt="winnie154" /> </p>
 
-- 🌱 I’m currently learning **Data Science,ML/AI**
+- 🔭 I’m currently working on **advancing my skills by getting industry specific certifications**
 
-- 💬 Ask me about **Tableau,Python,ML/AI**
+- 🌱 I’m currently learning **Data Science, DevOps**
+
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **winnieawino8497@gmail.com**
 
@@ -16,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/winnie odoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winnie odoyo" height="30" width="40" /></a>
+<a href="https://kaggle.com/winnie awino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="winnie awino" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
