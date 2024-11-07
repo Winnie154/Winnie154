@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.prod.website-files.com/6304f407692989e8cf58e801/633369cb5313cf4b78208c16__2.gif)
+![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Winnie Awino Odoyo</h1>
 <h3 align="center">A passionate Data Analyst from Kenya</h3>
 
