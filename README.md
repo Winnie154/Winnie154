@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
-<h1 align="center">Hi 👋, I'm Winnie Awino Odoyo</h1>
+<h1 align="center">Hi 👋, I'm Winnie Odoyo</h1>
 <h3 align="center">A passionate Data Analyst from Kenya</h3>
 
 <img align="right" alt="Data Analytics" width="400"  height="300" src= "https://upmetrics.com/hs-fs/hubfs/Data%20analysis.gif">
