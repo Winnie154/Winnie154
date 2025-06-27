@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **advancing my skills by getting industry specific certifications**
 
-- 🌱 I’m currently learning **Data Science, DevOps**
+- 🌱 I’m currently learning **Data Science, Business Analysis, Enterprise Architecture**
 
 - 💬 Ask me about **Data Analytics**
 
