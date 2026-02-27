@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **advancing my skills by getting industry specific certifications**
 
-- 🌱 I’m currently learning **Data Science, Business Analysis, Enterprise Architecture**
+- 🌱 I’m currently learning **Data Engineering, Business Analysis, Enterprise Architecture**
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **winnieawino8497@gmail.com**
 
