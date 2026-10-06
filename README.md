@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Engineering, Business Analysis, Enterprise Architecture**
 
-- 💬 Ask me about **Data Engineering**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **winnieawino8497@gmail.com**
 
